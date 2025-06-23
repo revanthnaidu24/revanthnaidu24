@@ -44,6 +44,8 @@ I'm passionate about building data-driven solutions that create impact. I specia
 🌟 **What it does:**  
 A medical chatbot capable of answering complex queries by processing a **4100-page medical knowledge base** using **Retrieval-Augmented Generation (RAG)**.  
 
+![image alt]([image_url](https://github.com/revanthnaidu24/revanthnaidu24-END_TO_END_CHAT_BOT_MEDICAL/blob/4b0d99e1a7413f2cbafbd132422967f2793e9986/Screenshot%202025-06-23%20120413.png))
+
 🌟 **Key tech:**  
 - 💬 **LangChain**  
 - 🧠 **OpenAI API (LLMs)**  
