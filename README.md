@@ -39,20 +39,21 @@ I'm passionate about building data-driven solutions that create impact. I specia
 
 ---
 
-## 🌟 **Recent Project: End-to-End Medical Chatbot**
-I built a medical chatbot that combines **Retrieval-Augmented Generation (RAG)** with a custom medical knowledge base to deliver accurate, context-aware answers.
+# 🚀 **Recent Highlighted Project**
+## 🩺 **End-to-End Medical Chatbot**  
+🌟 **What it does:**  
+A medical chatbot capable of answering complex queries by processing a **4100-page medical knowledge base** using **Retrieval-Augmented Generation (RAG)**.  
 
-💡 **Key tech used:**  
-- LangChain  
-- OpenAI LLMs (via API)  
-- Pinecone (vector DB)  
-- Hugging Face Sentence Transformers  
-- FastAPI + custom UI  
-- PyPDF2 / PDFminer for document parsing  
+🌟 **Key tech:**  
+- 💬 **LangChain**  
+- 🧠 **OpenAI API (LLMs)**  
+- 📦 **Pinecone vector DB**  
+- 🔍 **Hugging Face Sentence Transformers**  
+- ⚡ **FastAPI + custom UI**  
+- 📄 **PyPDF2 / PDFminer for large PDF parsing**  
 
-👉 **[Project Repo](https://github.com/revanthnaidu24/revanthnaidu24-END_TO_END_CHAT_BOT_MEDICAL)**  
+👉 **[View Project Repository](https://github.com/revanthnaidu24/revanthnaidu24-END_TO_END_CHAT_BOT_MEDICAL)**  
 
-### 📷 **Chatbot UI**
 <img src="https://raw.githubusercontent.com/revanthnaidu24/revanthnaidu24-END_TO_END_CHAT_BOT_MEDICAL/main/chatbot_screenshot.png" width="600"/>
 
 ---
@@ -70,4 +71,3 @@ When I’m not coding, I enjoy hiking and exploring new cuisines!
 
 ## 👤 **Profile Photo**
 <img src="https://raw.githubusercontent.com/revanthnaidu24/revanthnaidu24/main/profile_photo.png" width="200"/>
-
