@@ -2,15 +2,16 @@
 
 🎯 **Data Scientist | Machine Learning Engineer | NLP Enthusiast**  
 
-I'm passionate about building data-driven solutions that create impact. I specialize in large language models, deep learning, and scalable AI systems — with a strong interest in hardware-efficient ML and MLOps.  
+I'm passionate about building data-driven solutions that create impact. I specialize in large language models, deep learning, scalable AI systems, and hardware-efficient ML.  
 
 ---
 
 ## 🛠️ **Technical Experience & Interests**
-- Large Language Models (LLMs) | Transformers  
+- Large Language Models (LLMs) | Transformers | OpenAI APIs  
 - Deep Learning | Neural Networks  
 - Machine Learning | MLOps | Model Optimization  
 - Natural Language Processing | Chatbots | RAG  
+- Vector Databases | Pinecone | FAISS  
 - Distributed Systems | Big Data Pipelines  
 
 ---
@@ -24,6 +25,8 @@ I'm passionate about building data-driven solutions that create impact. I specia
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-0078D4?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -37,14 +40,15 @@ I'm passionate about building data-driven solutions that create impact. I specia
 ---
 
 ## 🌟 **Recent Project: End-to-End Medical Chatbot**
-I built a medical chatbot that combines **Retrieval-Augmented Generation (RAG)** with a custom medical knowledge base to deliver accurate, context-aware answers.  
+I built a medical chatbot that combines **Retrieval-Augmented Generation (RAG)** with a custom medical knowledge base to deliver accurate, context-aware answers.
 
 💡 **Key tech used:**  
-- LangChain, Hugging Face Sentence Transformers  
-- FAISS / ChromaDB (vector search)  
-- FastAPI + frontend UI  
-- PyPDF2 / PDFminer for parsing medical PDFs  
-- ONNX + mixed precision for efficient inference  
+- LangChain  
+- OpenAI LLMs (via API)  
+- Pinecone (vector DB)  
+- Hugging Face Sentence Transformers  
+- FastAPI + custom UI  
+- PyPDF2 / PDFminer for document parsing  
 
 👉 **[Project Repo](https://github.com/revanthnaidu24/revanthnaidu24-END_TO_END_CHAT_BOT_MEDICAL)**  
 
@@ -61,3 +65,9 @@ I built a medical chatbot that combines **Retrieval-Augmented Generation (RAG)**
 
 ## ⚡ **Fun Fact**
 When I’m not coding, I enjoy hiking and exploring new cuisines!
+
+---
+
+## 👤 **Profile Photo**
+<img src="https://raw.githubusercontent.com/revanthnaidu24/revanthnaidu24/main/profile_photo.png" width="200"/>
+
